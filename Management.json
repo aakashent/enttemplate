@@ -1,0 +1,25 @@
+[
+  {
+    "Diagnosis": "Rhinitis",
+    "Management": [
+      "Avamys spray 55mcg OD for minimum 3/12"
+    ]
+  },
+  {
+    "Diagnosis": "Allergic Rhinitis",
+    "Management": [
+      "Dymista spray 2 sprays OD for minimum 3/12"
+    ]
+  },
+  {
+    "Diagnosis": "Globus pharyngeus",
+    "Management": [
+      "Lifestyle advice",
+      "Minimise throat clearing",
+      "Increase water intake",
+      "Avoid caffeine",
+      "Gaviscon advance 10ml QDS for 6 weeks",
+      "PIFU 6/12"
+    ]
+  }
+]
